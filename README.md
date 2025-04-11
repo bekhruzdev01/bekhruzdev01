@@ -30,11 +30,9 @@ public class Developer {
 ## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://media.giphy.com/media/K8ZpXyYlWjxbWifR1D/giphy.gif" width="60" alt="Java" />
-  <img src="https://media.giphy.com/media/HEMnlPQ9H0Yn8oL49O/giphy.gif" width="60" alt="JavaScript" />
-  <img src="https://media.giphy.com/media/l41Ygx6MIJzzXzBfS/giphy.gif" width="60" alt="React" />
-  <img src="https://media.giphy.com/media/xT9Igt6gMg0WyWlTqg/giphy.gif" width="60" alt="NodeJS" />
-  <img src="https://media.giphy.com/media/7IHpS8djOHw3cKPvDp/giphy.gif" width="60" alt="PostgreSQL" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,html,css,postgres,mysql,mongodb,docker,linux,git,github,vscode,intellij" />
+</p>
 </p>
 
 ## ⚡ Fun Facts
