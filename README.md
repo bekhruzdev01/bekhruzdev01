@@ -7,15 +7,12 @@
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tOZf9M9ftjyn6pS/giphy.gif" width="200" alt="Coding Animation" />
-</p>
 
 ## 🚀 About Me
 
 ```java
 public class Developer {
-    String name = "Your Name";
+    String name = "Behruz";
     String profession = "Full Stack Web Developer";
     String[] languages = {"Java", "JavaScript"};
     String passion = "Building Scalable Applications with Clean Code";
@@ -60,27 +57,6 @@ public class Developer {
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-6A4C4C?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-## 💻 Fun Coding Animations
-
-<p align="center">
-  <!-- Java Animation -->
-  <img src="https://media.giphy.com/media/xUOxf7c0xEufD0G32k/giphy.gif" height="60" alt="Java Anim"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- JavaScript Animation -->
-  <img src="https://media.giphy.com/media/UBw5VfxBvZNYyJ0xdA/giphy.gif" height="60" alt="JavaScript Anim"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- React Animation -->
-  <img src="https://media.giphy.com/media/3oEjI6S4XjOjaJpXTS/giphy.gif" height="60" alt="React Anim"/>
-</p>
-
-<p align="center">
-  <!-- NodeJS Animation -->
-  <img src="https://media.giphy.com/media/K8ZpXyYlWjxbWifR1D/giphy.gif" height="60" alt="NodeJS Anim"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- PostgreSQL Animation -->
-  <img src="https://media.giphy.com/media/xT9Igt6gMg0WyWlTqg/giphy.gif" height="60" alt="PostgreSQL Anim"/>
 </p>
 
 <p align="center">
