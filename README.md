@@ -8,6 +8,7 @@
 </p>
 
 
+
 ## 🚀 About Me
 
 ```java
@@ -51,6 +52,7 @@ public class Developer {
 </p>
 
 
+
 ## 🔗 Let's Connect
 
 <p align="center">
@@ -65,3 +67,11 @@ public class Developer {
 <p align="center">
   <b>"First, solve the problem. Then, write the code." – John Johnson</b>
 </p>
+
+
+## 📊 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bekhruzdev01&label=Profile%20views&color=0e75b6&style=flat" alt="bekhruzdev01" />
+</p>
+
